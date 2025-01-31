@@ -1,0 +1,14 @@
+C:\Users\james\Documents\CIS122\HW\week2\FourSistersDuckbear\obj\Debug\net8.0\FourSistersDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\CIS122\HW\week2\FourSistersDuckbear\obj\Debug\net8.0\FourSistersDuckbear.AssemblyInfoInputs.cache
+C:\Users\james\Documents\CIS122\HW\week2\FourSistersDuckbear\obj\Debug\net8.0\FourSistersDuckbear.AssemblyInfo.cs
+C:\Users\james\Documents\CIS122\HW\week2\FourSistersDuckbear\obj\Debug\net8.0\FourSistersDuckbear.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\CIS122\HW\week2\FourSistersDuckbear\bin\Debug\net8.0\FourSistersDuckbear.exe
+C:\Users\james\Documents\CIS122\HW\week2\FourSistersDuckbear\bin\Debug\net8.0\FourSistersDuckbear.deps.json
+C:\Users\james\Documents\CIS122\HW\week2\FourSistersDuckbear\bin\Debug\net8.0\FourSistersDuckbear.runtimeconfig.json
+C:\Users\james\Documents\CIS122\HW\week2\FourSistersDuckbear\bin\Debug\net8.0\FourSistersDuckbear.dll
+C:\Users\james\Documents\CIS122\HW\week2\FourSistersDuckbear\bin\Debug\net8.0\FourSistersDuckbear.pdb
+C:\Users\james\Documents\CIS122\HW\week2\FourSistersDuckbear\obj\Debug\net8.0\FourSistersDuckbear.dll
+C:\Users\james\Documents\CIS122\HW\week2\FourSistersDuckbear\obj\Debug\net8.0\refint\FourSistersDuckbear.dll
+C:\Users\james\Documents\CIS122\HW\week2\FourSistersDuckbear\obj\Debug\net8.0\FourSistersDuckbear.pdb
+C:\Users\james\Documents\CIS122\HW\week2\FourSistersDuckbear\obj\Debug\net8.0\FourSistersDuckbear.genruntimeconfig.cache
+C:\Users\james\Documents\CIS122\HW\week2\FourSistersDuckbear\obj\Debug\net8.0\ref\FourSistersDuckbear.dll
