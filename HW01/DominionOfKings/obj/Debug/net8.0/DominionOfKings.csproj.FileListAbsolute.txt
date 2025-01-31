@@ -1,0 +1,14 @@
+C:\Users\james\Documents\CIS122\HW\week2\DominionOfKings\bin\Debug\net8.0\DominionOfKings.exe
+C:\Users\james\Documents\CIS122\HW\week2\DominionOfKings\bin\Debug\net8.0\DominionOfKings.deps.json
+C:\Users\james\Documents\CIS122\HW\week2\DominionOfKings\bin\Debug\net8.0\DominionOfKings.runtimeconfig.json
+C:\Users\james\Documents\CIS122\HW\week2\DominionOfKings\bin\Debug\net8.0\DominionOfKings.dll
+C:\Users\james\Documents\CIS122\HW\week2\DominionOfKings\bin\Debug\net8.0\DominionOfKings.pdb
+C:\Users\james\Documents\CIS122\HW\week2\DominionOfKings\obj\Debug\net8.0\DominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\CIS122\HW\week2\DominionOfKings\obj\Debug\net8.0\DominionOfKings.AssemblyInfoInputs.cache
+C:\Users\james\Documents\CIS122\HW\week2\DominionOfKings\obj\Debug\net8.0\DominionOfKings.AssemblyInfo.cs
+C:\Users\james\Documents\CIS122\HW\week2\DominionOfKings\obj\Debug\net8.0\DominionOfKings.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\CIS122\HW\week2\DominionOfKings\obj\Debug\net8.0\DominionOfKings.dll
+C:\Users\james\Documents\CIS122\HW\week2\DominionOfKings\obj\Debug\net8.0\refint\DominionOfKings.dll
+C:\Users\james\Documents\CIS122\HW\week2\DominionOfKings\obj\Debug\net8.0\DominionOfKings.pdb
+C:\Users\james\Documents\CIS122\HW\week2\DominionOfKings\obj\Debug\net8.0\DominionOfKings.genruntimeconfig.cache
+C:\Users\james\Documents\CIS122\HW\week2\DominionOfKings\obj\Debug\net8.0\ref\DominionOfKings.dll
