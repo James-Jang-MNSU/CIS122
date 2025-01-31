@@ -1,0 +1,14 @@
+C:\Users\james\Documents\CIS122\HW\week2\DefenseOfConsolas\bin\Debug\net8.0\DefenseOfConsolas.exe
+C:\Users\james\Documents\CIS122\HW\week2\DefenseOfConsolas\bin\Debug\net8.0\DefenseOfConsolas.deps.json
+C:\Users\james\Documents\CIS122\HW\week2\DefenseOfConsolas\bin\Debug\net8.0\DefenseOfConsolas.runtimeconfig.json
+C:\Users\james\Documents\CIS122\HW\week2\DefenseOfConsolas\bin\Debug\net8.0\DefenseOfConsolas.dll
+C:\Users\james\Documents\CIS122\HW\week2\DefenseOfConsolas\bin\Debug\net8.0\DefenseOfConsolas.pdb
+C:\Users\james\Documents\CIS122\HW\week2\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\CIS122\HW\week2\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.AssemblyInfoInputs.cache
+C:\Users\james\Documents\CIS122\HW\week2\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.AssemblyInfo.cs
+C:\Users\james\Documents\CIS122\HW\week2\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\CIS122\HW\week2\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.dll
+C:\Users\james\Documents\CIS122\HW\week2\DefenseOfConsolas\obj\Debug\net8.0\refint\DefenseOfConsolas.dll
+C:\Users\james\Documents\CIS122\HW\week2\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.pdb
+C:\Users\james\Documents\CIS122\HW\week2\DefenseOfConsolas\obj\Debug\net8.0\DefenseOfConsolas.genruntimeconfig.cache
+C:\Users\james\Documents\CIS122\HW\week2\DefenseOfConsolas\obj\Debug\net8.0\ref\DefenseOfConsolas.dll
