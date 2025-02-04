@@ -1,0 +1,14 @@
+C:\Users\james\Documents\CIS122\HW\HW02\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.exe
+C:\Users\james\Documents\CIS122\HW\HW02\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.deps.json
+C:\Users\james\Documents\CIS122\HW\HW02\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.runtimeconfig.json
+C:\Users\james\Documents\CIS122\HW\HW02\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.dll
+C:\Users\james\Documents\CIS122\HW\HW02\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.pdb
+C:\Users\james\Documents\CIS122\HW\HW02\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\CIS122\HW\HW02\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.AssemblyInfoInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW02\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.AssemblyInfo.cs
+C:\Users\james\Documents\CIS122\HW\HW02\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW02\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.dll
+C:\Users\james\Documents\CIS122\HW\HW02\DiscountedInventory\obj\Debug\net8.0\refint\DiscountedInventory.dll
+C:\Users\james\Documents\CIS122\HW\HW02\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.pdb
+C:\Users\james\Documents\CIS122\HW\HW02\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.genruntimeconfig.cache
+C:\Users\james\Documents\CIS122\HW\HW02\DiscountedInventory\obj\Debug\net8.0\ref\DiscountedInventory.dll
