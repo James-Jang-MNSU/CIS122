@@ -1,0 +1,14 @@
+C:\Users\james\Documents\CIS122\HW\HW02\ReplicatorOfDTo\bin\Debug\net8.0\ReplicatorOfDTo.exe
+C:\Users\james\Documents\CIS122\HW\HW02\ReplicatorOfDTo\bin\Debug\net8.0\ReplicatorOfDTo.deps.json
+C:\Users\james\Documents\CIS122\HW\HW02\ReplicatorOfDTo\bin\Debug\net8.0\ReplicatorOfDTo.runtimeconfig.json
+C:\Users\james\Documents\CIS122\HW\HW02\ReplicatorOfDTo\bin\Debug\net8.0\ReplicatorOfDTo.dll
+C:\Users\james\Documents\CIS122\HW\HW02\ReplicatorOfDTo\bin\Debug\net8.0\ReplicatorOfDTo.pdb
+C:\Users\james\Documents\CIS122\HW\HW02\ReplicatorOfDTo\obj\Debug\net8.0\ReplicatorOfDTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\CIS122\HW\HW02\ReplicatorOfDTo\obj\Debug\net8.0\ReplicatorOfDTo.AssemblyInfoInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW02\ReplicatorOfDTo\obj\Debug\net8.0\ReplicatorOfDTo.AssemblyInfo.cs
+C:\Users\james\Documents\CIS122\HW\HW02\ReplicatorOfDTo\obj\Debug\net8.0\ReplicatorOfDTo.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW02\ReplicatorOfDTo\obj\Debug\net8.0\ReplicatorOfDTo.dll
+C:\Users\james\Documents\CIS122\HW\HW02\ReplicatorOfDTo\obj\Debug\net8.0\refint\ReplicatorOfDTo.dll
+C:\Users\james\Documents\CIS122\HW\HW02\ReplicatorOfDTo\obj\Debug\net8.0\ReplicatorOfDTo.pdb
+C:\Users\james\Documents\CIS122\HW\HW02\ReplicatorOfDTo\obj\Debug\net8.0\ReplicatorOfDTo.genruntimeconfig.cache
+C:\Users\james\Documents\CIS122\HW\HW02\ReplicatorOfDTo\obj\Debug\net8.0\ref\ReplicatorOfDTo.dll
