@@ -1,0 +1,14 @@
+C:\Users\james\Documents\CIS122\HW\HW02\WatchTower\bin\Debug\net8.0\WatchTower.exe
+C:\Users\james\Documents\CIS122\HW\HW02\WatchTower\bin\Debug\net8.0\WatchTower.deps.json
+C:\Users\james\Documents\CIS122\HW\HW02\WatchTower\bin\Debug\net8.0\WatchTower.runtimeconfig.json
+C:\Users\james\Documents\CIS122\HW\HW02\WatchTower\bin\Debug\net8.0\WatchTower.dll
+C:\Users\james\Documents\CIS122\HW\HW02\WatchTower\bin\Debug\net8.0\WatchTower.pdb
+C:\Users\james\Documents\CIS122\HW\HW02\WatchTower\obj\Debug\net8.0\WatchTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\CIS122\HW\HW02\WatchTower\obj\Debug\net8.0\WatchTower.AssemblyInfoInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW02\WatchTower\obj\Debug\net8.0\WatchTower.AssemblyInfo.cs
+C:\Users\james\Documents\CIS122\HW\HW02\WatchTower\obj\Debug\net8.0\WatchTower.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW02\WatchTower\obj\Debug\net8.0\WatchTower.dll
+C:\Users\james\Documents\CIS122\HW\HW02\WatchTower\obj\Debug\net8.0\refint\WatchTower.dll
+C:\Users\james\Documents\CIS122\HW\HW02\WatchTower\obj\Debug\net8.0\WatchTower.pdb
+C:\Users\james\Documents\CIS122\HW\HW02\WatchTower\obj\Debug\net8.0\WatchTower.genruntimeconfig.cache
+C:\Users\james\Documents\CIS122\HW\HW02\WatchTower\obj\Debug\net8.0\ref\WatchTower.dll
