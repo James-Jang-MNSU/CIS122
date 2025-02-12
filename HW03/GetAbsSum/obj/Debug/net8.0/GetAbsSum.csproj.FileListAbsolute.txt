@@ -1,0 +1,14 @@
+C:\Users\james\Documents\CIS122\HW\HW03\GetAbsSum\obj\Debug\net8.0\GetAbsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\CIS122\HW\HW03\GetAbsSum\obj\Debug\net8.0\GetAbsSum.AssemblyInfoInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW03\GetAbsSum\obj\Debug\net8.0\GetAbsSum.AssemblyInfo.cs
+C:\Users\james\Documents\CIS122\HW\HW03\GetAbsSum\obj\Debug\net8.0\GetAbsSum.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW03\GetAbsSum\bin\Debug\net8.0\GetAbsSum.exe
+C:\Users\james\Documents\CIS122\HW\HW03\GetAbsSum\bin\Debug\net8.0\GetAbsSum.deps.json
+C:\Users\james\Documents\CIS122\HW\HW03\GetAbsSum\bin\Debug\net8.0\GetAbsSum.runtimeconfig.json
+C:\Users\james\Documents\CIS122\HW\HW03\GetAbsSum\bin\Debug\net8.0\GetAbsSum.dll
+C:\Users\james\Documents\CIS122\HW\HW03\GetAbsSum\bin\Debug\net8.0\GetAbsSum.pdb
+C:\Users\james\Documents\CIS122\HW\HW03\GetAbsSum\obj\Debug\net8.0\GetAbsSum.dll
+C:\Users\james\Documents\CIS122\HW\HW03\GetAbsSum\obj\Debug\net8.0\refint\GetAbsSum.dll
+C:\Users\james\Documents\CIS122\HW\HW03\GetAbsSum\obj\Debug\net8.0\GetAbsSum.pdb
+C:\Users\james\Documents\CIS122\HW\HW03\GetAbsSum\obj\Debug\net8.0\GetAbsSum.genruntimeconfig.cache
+C:\Users\james\Documents\CIS122\HW\HW03\GetAbsSum\obj\Debug\net8.0\ref\GetAbsSum.dll
