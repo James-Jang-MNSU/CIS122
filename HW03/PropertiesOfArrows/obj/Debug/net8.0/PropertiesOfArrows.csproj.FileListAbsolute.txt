@@ -1,0 +1,14 @@
+C:\Users\james\Documents\CIS122\HW\HW03\PropertiesOfArrows\bin\Debug\net8.0\PropertiesOfArrows.exe
+C:\Users\james\Documents\CIS122\HW\HW03\PropertiesOfArrows\bin\Debug\net8.0\PropertiesOfArrows.deps.json
+C:\Users\james\Documents\CIS122\HW\HW03\PropertiesOfArrows\bin\Debug\net8.0\PropertiesOfArrows.runtimeconfig.json
+C:\Users\james\Documents\CIS122\HW\HW03\PropertiesOfArrows\bin\Debug\net8.0\PropertiesOfArrows.dll
+C:\Users\james\Documents\CIS122\HW\HW03\PropertiesOfArrows\bin\Debug\net8.0\PropertiesOfArrows.pdb
+C:\Users\james\Documents\CIS122\HW\HW03\PropertiesOfArrows\obj\Debug\net8.0\PropertiesOfArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\CIS122\HW\HW03\PropertiesOfArrows\obj\Debug\net8.0\PropertiesOfArrows.AssemblyInfoInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW03\PropertiesOfArrows\obj\Debug\net8.0\PropertiesOfArrows.AssemblyInfo.cs
+C:\Users\james\Documents\CIS122\HW\HW03\PropertiesOfArrows\obj\Debug\net8.0\PropertiesOfArrows.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW03\PropertiesOfArrows\obj\Debug\net8.0\PropertiesOfArrows.dll
+C:\Users\james\Documents\CIS122\HW\HW03\PropertiesOfArrows\obj\Debug\net8.0\refint\PropertiesOfArrows.dll
+C:\Users\james\Documents\CIS122\HW\HW03\PropertiesOfArrows\obj\Debug\net8.0\PropertiesOfArrows.pdb
+C:\Users\james\Documents\CIS122\HW\HW03\PropertiesOfArrows\obj\Debug\net8.0\PropertiesOfArrows.genruntimeconfig.cache
+C:\Users\james\Documents\CIS122\HW\HW03\PropertiesOfArrows\obj\Debug\net8.0\ref\PropertiesOfArrows.dll
