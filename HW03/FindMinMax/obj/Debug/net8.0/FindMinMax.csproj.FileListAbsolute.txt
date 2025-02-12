@@ -1,0 +1,14 @@
+C:\Users\james\Documents\CIS122\HW\HW03\FindMinMax\bin\Debug\net8.0\FindMinMax.exe
+C:\Users\james\Documents\CIS122\HW\HW03\FindMinMax\bin\Debug\net8.0\FindMinMax.deps.json
+C:\Users\james\Documents\CIS122\HW\HW03\FindMinMax\bin\Debug\net8.0\FindMinMax.runtimeconfig.json
+C:\Users\james\Documents\CIS122\HW\HW03\FindMinMax\bin\Debug\net8.0\FindMinMax.dll
+C:\Users\james\Documents\CIS122\HW\HW03\FindMinMax\bin\Debug\net8.0\FindMinMax.pdb
+C:\Users\james\Documents\CIS122\HW\HW03\FindMinMax\obj\Debug\net8.0\FindMinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\CIS122\HW\HW03\FindMinMax\obj\Debug\net8.0\FindMinMax.AssemblyInfoInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW03\FindMinMax\obj\Debug\net8.0\FindMinMax.AssemblyInfo.cs
+C:\Users\james\Documents\CIS122\HW\HW03\FindMinMax\obj\Debug\net8.0\FindMinMax.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW03\FindMinMax\obj\Debug\net8.0\FindMinMax.dll
+C:\Users\james\Documents\CIS122\HW\HW03\FindMinMax\obj\Debug\net8.0\refint\FindMinMax.dll
+C:\Users\james\Documents\CIS122\HW\HW03\FindMinMax\obj\Debug\net8.0\FindMinMax.pdb
+C:\Users\james\Documents\CIS122\HW\HW03\FindMinMax\obj\Debug\net8.0\FindMinMax.genruntimeconfig.cache
+C:\Users\james\Documents\CIS122\HW\HW03\FindMinMax\obj\Debug\net8.0\ref\FindMinMax.dll
