@@ -1,0 +1,14 @@
+C:\Users\james\Documents\CIS122\HW\HW03\MultiplyByLength\bin\Debug\net8.0\MultiplyByLength.exe
+C:\Users\james\Documents\CIS122\HW\HW03\MultiplyByLength\bin\Debug\net8.0\MultiplyByLength.deps.json
+C:\Users\james\Documents\CIS122\HW\HW03\MultiplyByLength\bin\Debug\net8.0\MultiplyByLength.runtimeconfig.json
+C:\Users\james\Documents\CIS122\HW\HW03\MultiplyByLength\bin\Debug\net8.0\MultiplyByLength.dll
+C:\Users\james\Documents\CIS122\HW\HW03\MultiplyByLength\bin\Debug\net8.0\MultiplyByLength.pdb
+C:\Users\james\Documents\CIS122\HW\HW03\MultiplyByLength\obj\Debug\net8.0\MultiplyByLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\CIS122\HW\HW03\MultiplyByLength\obj\Debug\net8.0\MultiplyByLength.AssemblyInfoInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW03\MultiplyByLength\obj\Debug\net8.0\MultiplyByLength.AssemblyInfo.cs
+C:\Users\james\Documents\CIS122\HW\HW03\MultiplyByLength\obj\Debug\net8.0\MultiplyByLength.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW03\MultiplyByLength\obj\Debug\net8.0\MultiplyByLength.dll
+C:\Users\james\Documents\CIS122\HW\HW03\MultiplyByLength\obj\Debug\net8.0\refint\MultiplyByLength.dll
+C:\Users\james\Documents\CIS122\HW\HW03\MultiplyByLength\obj\Debug\net8.0\MultiplyByLength.pdb
+C:\Users\james\Documents\CIS122\HW\HW03\MultiplyByLength\obj\Debug\net8.0\MultiplyByLength.genruntimeconfig.cache
+C:\Users\james\Documents\CIS122\HW\HW03\MultiplyByLength\obj\Debug\net8.0\ref\MultiplyByLength.dll
