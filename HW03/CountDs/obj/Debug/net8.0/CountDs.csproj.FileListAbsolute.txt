@@ -1,0 +1,14 @@
+C:\Users\james\Documents\CIS122\HW\HW03\CountDs\bin\Debug\net8.0\CountDs.exe
+C:\Users\james\Documents\CIS122\HW\HW03\CountDs\bin\Debug\net8.0\CountDs.deps.json
+C:\Users\james\Documents\CIS122\HW\HW03\CountDs\bin\Debug\net8.0\CountDs.runtimeconfig.json
+C:\Users\james\Documents\CIS122\HW\HW03\CountDs\bin\Debug\net8.0\CountDs.dll
+C:\Users\james\Documents\CIS122\HW\HW03\CountDs\bin\Debug\net8.0\CountDs.pdb
+C:\Users\james\Documents\CIS122\HW\HW03\CountDs\obj\Debug\net8.0\CountDs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\CIS122\HW\HW03\CountDs\obj\Debug\net8.0\CountDs.AssemblyInfoInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW03\CountDs\obj\Debug\net8.0\CountDs.AssemblyInfo.cs
+C:\Users\james\Documents\CIS122\HW\HW03\CountDs\obj\Debug\net8.0\CountDs.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW03\CountDs\obj\Debug\net8.0\CountDs.dll
+C:\Users\james\Documents\CIS122\HW\HW03\CountDs\obj\Debug\net8.0\refint\CountDs.dll
+C:\Users\james\Documents\CIS122\HW\HW03\CountDs\obj\Debug\net8.0\CountDs.pdb
+C:\Users\james\Documents\CIS122\HW\HW03\CountDs\obj\Debug\net8.0\CountDs.genruntimeconfig.cache
+C:\Users\james\Documents\CIS122\HW\HW03\CountDs\obj\Debug\net8.0\ref\CountDs.dll
