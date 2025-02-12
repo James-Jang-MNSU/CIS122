@@ -1,0 +1,14 @@
+C:\Users\james\Documents\CIS122\HW\HW03\SimulasSoup\bin\Debug\net8.0\SimulasSoup.exe
+C:\Users\james\Documents\CIS122\HW\HW03\SimulasSoup\bin\Debug\net8.0\SimulasSoup.deps.json
+C:\Users\james\Documents\CIS122\HW\HW03\SimulasSoup\bin\Debug\net8.0\SimulasSoup.runtimeconfig.json
+C:\Users\james\Documents\CIS122\HW\HW03\SimulasSoup\bin\Debug\net8.0\SimulasSoup.dll
+C:\Users\james\Documents\CIS122\HW\HW03\SimulasSoup\bin\Debug\net8.0\SimulasSoup.pdb
+C:\Users\james\Documents\CIS122\HW\HW03\SimulasSoup\obj\Debug\net8.0\SimulasSoup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\CIS122\HW\HW03\SimulasSoup\obj\Debug\net8.0\SimulasSoup.AssemblyInfoInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW03\SimulasSoup\obj\Debug\net8.0\SimulasSoup.AssemblyInfo.cs
+C:\Users\james\Documents\CIS122\HW\HW03\SimulasSoup\obj\Debug\net8.0\SimulasSoup.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\CIS122\HW\HW03\SimulasSoup\obj\Debug\net8.0\SimulasSoup.dll
+C:\Users\james\Documents\CIS122\HW\HW03\SimulasSoup\obj\Debug\net8.0\refint\SimulasSoup.dll
+C:\Users\james\Documents\CIS122\HW\HW03\SimulasSoup\obj\Debug\net8.0\SimulasSoup.pdb
+C:\Users\james\Documents\CIS122\HW\HW03\SimulasSoup\obj\Debug\net8.0\SimulasSoup.genruntimeconfig.cache
+C:\Users\james\Documents\CIS122\HW\HW03\SimulasSoup\obj\Debug\net8.0\ref\SimulasSoup.dll
