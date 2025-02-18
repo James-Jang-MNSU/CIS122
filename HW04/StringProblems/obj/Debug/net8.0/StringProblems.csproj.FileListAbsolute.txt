@@ -1,0 +1,14 @@
+C:\Users\james\MNSU\CIS122\HW\HW04\StringProblems\bin\Debug\net8.0\StringProblems.exe
+C:\Users\james\MNSU\CIS122\HW\HW04\StringProblems\bin\Debug\net8.0\StringProblems.deps.json
+C:\Users\james\MNSU\CIS122\HW\HW04\StringProblems\bin\Debug\net8.0\StringProblems.runtimeconfig.json
+C:\Users\james\MNSU\CIS122\HW\HW04\StringProblems\bin\Debug\net8.0\StringProblems.dll
+C:\Users\james\MNSU\CIS122\HW\HW04\StringProblems\bin\Debug\net8.0\StringProblems.pdb
+C:\Users\james\MNSU\CIS122\HW\HW04\StringProblems\obj\Debug\net8.0\StringProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\MNSU\CIS122\HW\HW04\StringProblems\obj\Debug\net8.0\StringProblems.AssemblyInfoInputs.cache
+C:\Users\james\MNSU\CIS122\HW\HW04\StringProblems\obj\Debug\net8.0\StringProblems.AssemblyInfo.cs
+C:\Users\james\MNSU\CIS122\HW\HW04\StringProblems\obj\Debug\net8.0\StringProblems.csproj.CoreCompileInputs.cache
+C:\Users\james\MNSU\CIS122\HW\HW04\StringProblems\obj\Debug\net8.0\StringProblems.dll
+C:\Users\james\MNSU\CIS122\HW\HW04\StringProblems\obj\Debug\net8.0\refint\StringProblems.dll
+C:\Users\james\MNSU\CIS122\HW\HW04\StringProblems\obj\Debug\net8.0\StringProblems.pdb
+C:\Users\james\MNSU\CIS122\HW\HW04\StringProblems\obj\Debug\net8.0\StringProblems.genruntimeconfig.cache
+C:\Users\james\MNSU\CIS122\HW\HW04\StringProblems\obj\Debug\net8.0\ref\StringProblems.dll
