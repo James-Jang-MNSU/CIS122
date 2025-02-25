@@ -1,0 +1,14 @@
+C:\Users\james\MNSU\CIS122\HW\HW05\VehiclesCars\bin\Debug\net8.0\VehiclesCars.exe
+C:\Users\james\MNSU\CIS122\HW\HW05\VehiclesCars\bin\Debug\net8.0\VehiclesCars.deps.json
+C:\Users\james\MNSU\CIS122\HW\HW05\VehiclesCars\bin\Debug\net8.0\VehiclesCars.runtimeconfig.json
+C:\Users\james\MNSU\CIS122\HW\HW05\VehiclesCars\bin\Debug\net8.0\VehiclesCars.dll
+C:\Users\james\MNSU\CIS122\HW\HW05\VehiclesCars\bin\Debug\net8.0\VehiclesCars.pdb
+C:\Users\james\MNSU\CIS122\HW\HW05\VehiclesCars\obj\Debug\net8.0\VehiclesCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\MNSU\CIS122\HW\HW05\VehiclesCars\obj\Debug\net8.0\VehiclesCars.AssemblyInfoInputs.cache
+C:\Users\james\MNSU\CIS122\HW\HW05\VehiclesCars\obj\Debug\net8.0\VehiclesCars.AssemblyInfo.cs
+C:\Users\james\MNSU\CIS122\HW\HW05\VehiclesCars\obj\Debug\net8.0\VehiclesCars.csproj.CoreCompileInputs.cache
+C:\Users\james\MNSU\CIS122\HW\HW05\VehiclesCars\obj\Debug\net8.0\VehiclesCars.dll
+C:\Users\james\MNSU\CIS122\HW\HW05\VehiclesCars\obj\Debug\net8.0\refint\VehiclesCars.dll
+C:\Users\james\MNSU\CIS122\HW\HW05\VehiclesCars\obj\Debug\net8.0\VehiclesCars.pdb
+C:\Users\james\MNSU\CIS122\HW\HW05\VehiclesCars\obj\Debug\net8.0\VehiclesCars.genruntimeconfig.cache
+C:\Users\james\MNSU\CIS122\HW\HW05\VehiclesCars\obj\Debug\net8.0\ref\VehiclesCars.dll
