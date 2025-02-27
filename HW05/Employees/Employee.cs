@@ -12,8 +12,8 @@ namespace Employees
     public class Employee
     {
         // class variables
-        private string name = "n/a";
-        private double salary = double.MinValue;
+        protected string name = "n/a";
+        protected double salary = double.MinValue;
     
         // gets and sets
         public string Name
