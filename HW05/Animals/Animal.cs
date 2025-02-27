@@ -12,7 +12,7 @@ namespace Animals
     public class Animal
     {
         // class variables
-        private string name = "n/a";
+        protected string name = "n/a";
 
         // gets and sets
         public string Name
