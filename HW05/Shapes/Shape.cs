@@ -12,7 +12,7 @@ namespace Shapes
     public abstract class Shape
     {
         // class variables
-        private string color = "n/a";
+        protected string color = "n/a";
 
         // gets and sets
         public string Color
