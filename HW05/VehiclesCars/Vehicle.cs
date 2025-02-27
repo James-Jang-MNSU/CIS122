@@ -12,9 +12,9 @@ namespace VehiclesCars
     public class Vehicle
     {
         // class variables
-        private string make = "n/a";
-        private string model = "n/a";
-        private int year = -1;
+        protected string make = "n/a";
+        protected string model = "n/a";
+        protected int year = -1;
 
         // gets and sets
         public string Make
