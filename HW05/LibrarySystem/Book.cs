@@ -12,9 +12,9 @@ namespace LibrarySystem
     public class Book
     {
         // class variables
-        private string title = "n/a";
-        private string author = "n/a";
-        private string yearPublished = "n/a";
+        protected string title = "n/a";
+        protected string author = "n/a";
+        protected string yearPublished = "n/a";
 
         // gets and sets
         public string Title
